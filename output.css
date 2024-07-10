@@ -1387,7 +1387,7 @@ code {
 }
 
 .repeating-background {
-  background-image: linear-gradient(90deg, #36d1dcb0 0%, #5B86E5b0 100%), url("/public/Images/headset.png");
+  background-image: linear-gradient(90deg, #36d1dcb0 0%, #5B86E5b0 100%), url("./Images/headset.png");
   background-size: cover;
   background-position: center;
 }
